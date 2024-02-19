@@ -1,0 +1,12 @@
+for server start 
+goto termindal goto server side folder cd ServerSide
+npm i &&
+run command npm run dev
+for client side
+integrate api of get all products
+cart item and buy
+login and signup api with integration 
+for react js app
+cd Client side 
+npm i then 
+npm start
